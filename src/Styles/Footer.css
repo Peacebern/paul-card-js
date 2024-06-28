@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.foot {
+    background-color: hsl(217, 88%, 22%);
+    margin-top: 5rem;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.foot-sub {
+    padding: 3rem 5rem 3rem 5rem;
+}
+
+.ul-menu {
+    display: flex;
+    gap: 3rem;
+    justify-content: space-between;
+}
+
+.foot-sub-menu {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.ul-question {
+    padding-left: 5rem;
+}
+
+.foot-li {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    font-size: 10px;
+}
