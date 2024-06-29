@@ -1,24 +1,15 @@
-// import Frame from './Assets/BodyImage/Frame.svg';
-// import Framerec from './Assets/BodyImage/Framerec.svg';
-// import ojuola from './Assets/BodyImage/ojuola.svg';
-// import ojuolarec from './Assets/BodyImage/ojuolarec.svg';
-// import olyred from './Assets/BodyImage/olyred.png';
-// import olyredd from './Assets/BodyImage/olyredd.png';
-import anime from './Assets/BodyImage/anime.webp';
-import hijabi from './Assets/BodyImage/hijabi.webp';
-import kpop from './Assets/BodyImage/kpop.webp';
+import animee from './Assets/BodyImage/animee.png';
+import hijabie from './Assets/BodyImage/hijabie.png';
+import kpopi from './Assets/BodyImage/kpopi.png';
+import kpoprec from './Assets/BodyImage/Kpoprec.png';
 
 export default [
     {
         name: 'First name & Last Name',
         stack: 'Frontend',
         role: 'Team Lead',
-        // image: Frame,
-        // images: Framerec,
-        // image: olyred,
-        // images: olyredd,
-        image: anime,
-        images: hijabi,
+        image: animee,
+        images: hijabie,
         link: 'View Profile',
         title: 'Card 1'
     },
@@ -27,87 +18,109 @@ export default [
         name: 'First name & Last Name',
         stack: 'Backend',
         role: 'Senior Team Lead',
-        // image: ojuola,
-        // images: ojuolarec,
-        // image: olyred,
-        // images: olyredd,
-        image: kpop,
-        images: kpop,
+        image: kpopi,
+        images: kpoprec,
         link: 'View Profile',
         title: 'Card 2',
     },
 
-    // {
-    //     name: 'First name & Last Name',
-    //     stack: 'Frontend',
-    //     role: 'Team Lead',
-    //     image: Frame,
-    //     images: Framerec,
-    //     link: 'View Profile',
-    //     title: 'Card 1'
-    // },
+    {
+        name: 'First name & Last Name',
+        stack: 'Frontend',
+        role: 'Team Lead',
+        image: animee,
+        images: hijabie,
+        link: 'View Profile',
+        title: 'Card 1'
+    },
 
-    // {
-    //     name: 'First name & Last Name',
-    //     stack: 'Backend',
-    //     role: 'Senior Team Lead',
-    //     image: ojuola,
-    //     images: ojuolarec,
-    //     link: 'View Profile',
-    //     title: 'Card 2',
-    // },
+    {
+        name: 'First name & Last Name',
+        stack: 'Backend',
+        role: 'Senior Team Lead',
+        image: kpopi,
+        images: kpoprec,
+        link: 'View Profile',
+        title: 'Card 2',
+    },
 
-    // {
-    //     name: 'First name & Last Name',
-    //     stack: 'Frontend',
-    //     role: 'Team Lead',
-    //     image: Frame,
-    //     images: Framerec,
-    //     link: 'View Profile',
-    //     title: 'Card 1'
-    // },
+    {
+        name: 'First name & Last Name',
+        stack: 'Frontend',
+        role: 'Team Lead',
+        image: animee,
+        images: hijabie,
+        link: 'View Profile',
+        title: 'Card 1'
+    },
 
-    // {
-    //     name: 'First name & Last Name',
-    //     stack: 'Backend',
-    //     role: 'Senior Team Lead',
-    //     image: ojuola,
-    //     images: ojuolarec,
-    //     link: 'View Profile',
-    //     title: 'Card 2',
-    // },
+    {
+        name: 'First name & Last Name',
+        stack: 'Backend',
+        role: 'Senior Team Lead',
+        image: kpopi,
+        images: kpoprec,
+        link: 'View Profile',
+        title: 'Card 2',
+    },
 
-    // {
-    //     name: 'First name & Last Name',
-    //     stack: 'Frontend',
-    //     role: 'Team Lead',
-    //     image: Frame,
-    //     images: Framerec,
-    //     link: 'View Profile',
-    //     title: 'Card 1'
-    // },
+    {
+        name: 'First name & Last Name',
+        stack: 'Frontend',
+        role: 'Team Lead',
+        image: animee,
+        images: hijabie,
+        link: 'View Profile',
+        title: 'Card 1'
+    },
 
-    // {
-    //     name: 'First name & Last Name',
-    //     stack: 'Backend',
-    //     role: 'Senior Team Lead',
-    //     image: ojuola,
-    //     images: ojuolarec,
-    //     link: 'View Profile',
-    //     title: 'Card 2',
-    // },
+    {
+        name: 'First name & Last Name',
+        stack: 'Backend',
+        role: 'Senior Team Lead',
+        image: kpopi,
+        images: kpoprec,
+        link: 'View Profile',
+        title: 'Card 2',
+    },
 
-    // {
-    //     name: 'First name & Last Name',
-    //     stack: 'Frontend',
-    //     role: 'Team Lead',
-    //     image: Frame,
-    //     images: Framerec,
-    //     link: 'View Profile',
-    //     title: 'Card 1'
-    // },
+    {
+        name: 'First name & Last Name',
+        stack: 'Frontend',
+        role: 'Team Lead',
+        image: animee,
+        images: hijabie,
+        link: 'View Profile',
+        title: 'Card 1'
+    },
 
+    {
+        name: 'First name & Last Name',
+        stack: 'Backend',
+        role: 'Senior Team Lead',
+        image: kpopi,
+        images: kpoprec,
+        link: 'View Profile',
+        title: 'Card 2',
+    },
+    {
+        name: 'First name & Last Name',
+        stack: 'Frontend',
+        role: 'Team Lead',
+        image: animee,
+        images: hijabie,
+        link: 'View Profile',
+        title: 'Card 1'
+    },
 
-
+    {
+        name: 'First name & Last Name',
+        stack: 'Backend',
+        role: 'Senior Team Lead',
+        image: kpopi,
+        images: kpoprec,
+        link: 'View Profile',
+        title: 'Card 2',
+    },
 
 ]

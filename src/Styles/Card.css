@@ -5,22 +5,23 @@
     background-color: hsl(216, 91%, 42%);
     font-family: "Poppins", sans-serif;
     font-weight: 400;
+    margin-bottom: 2rem;
 }
 .cardcontainer {
     border-radius: 50%;
-    border: 1px solid red;
     width: 120px;
     height: 120px;
     aspect-ratio: 1;
+    display: flex;
     margin-top: -80px;
-    /* align-self: center; */
+    align-self: center;
     overflow:hidden;
     margin-inline: auto;
 }
 
 .cardcontainer img {
-    /* object-position: center; */
-    object-fit:scale-down;
+    object-position: right;
+    object-fit: contain;
     aspect-ratio: 1;
 }
 
