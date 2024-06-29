@@ -3,7 +3,7 @@ import hijabie from './Assets/BodyImage/hijabie.png';
 import kpopi from './Assets/BodyImage/kpopi.png';
 import kpoprec from './Assets/BodyImage/Kpoprec.png';
 
-export default [
+const data = [
     {
         name: 'First name & Last Name',
         stack: 'Frontend',
@@ -124,3 +124,5 @@ export default [
     },
 
 ]
+
+export default data;

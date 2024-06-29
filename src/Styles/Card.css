@@ -6,6 +6,11 @@
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     margin-bottom: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
 }
 .cardcontainer {
     border-radius: 50%;
@@ -13,7 +18,7 @@
     height: 120px;
     aspect-ratio: 1;
     display: flex;
-    margin-top: -80px;
+    margin-top: -60px;
     align-self: center;
     overflow:hidden;
     margin-inline: auto;
@@ -26,15 +31,10 @@
 }
 
 .card-sub {
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-self: center; */
     text-align: center;
     padding-left: 2rem;
     padding-right: 2rem ;
     padding-bottom: 1.5rem;
-    /* gap: 1rem; */
 }
 
 .p1-size {
